@@ -1,0 +1,68 @@
+{
+  "1": {
+    "name": "KICK",
+    "color": "Light Blue",
+    "icon": "Kick Out",
+    "mode": "mono"
+  },
+  "2": {
+    "name": "OH",
+    "color": "Light Blue",
+    "icon": "Condenser Microphone",
+    "mode": "mono"
+  },
+  "3": {
+    "name": "TOM 1",
+    "color": "Light Blue",
+    "icon": "Floor Tom",
+    "mode": "mono"
+  },
+  "4": {
+    "name": "TOM 2",
+    "color": "Light Blue",
+    "icon": "Mid Tom",
+    "mode": "mono"
+  },
+  "5": {
+    "name": "SNARE",
+    "color": "Light Blue",
+    "icon": "Snare Drum",
+    "mode": "mono"
+  },
+  "6": {
+    "name": "BASS",
+    "color": "Green",
+    "icon": "Bass Guitar",
+    "mode": "mono"
+  },
+  "7": {
+    "name": "GUITAR 2",
+    "color": "Green",
+    "icon": "Electric Guitar 2",
+    "mode": "mono"
+  },
+  "8": {
+    "name": "KEYS",
+    "color": "Coral",
+    "icon": "Piano Stand",
+    "mode": "mono"
+  },
+  "9": {
+    "name": "ORGAN",
+    "color": "Coral",
+    "icon": "Organ",
+    "mode": "stereo"
+  },
+  "10": {
+    "name": "VOX L",
+    "color": "Orange",
+    "icon": "Microphone",
+    "mode": "mono"
+  },
+  "11": {
+    "name": "VOX B",
+    "color": "Orange",
+    "icon": "Microphone",
+    "mode": "mono"
+  }
+}
